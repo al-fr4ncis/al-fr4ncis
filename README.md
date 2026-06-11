@@ -1,15 +1,15 @@
 Hi! My name is Al Francis Francia 👋
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in the Philippines.
+🌍  I am a Full-Stack Developer based in the Philippines.
 <br/>
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js,vue)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 <br/>
 
